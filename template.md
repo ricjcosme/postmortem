@@ -4,9 +4,9 @@ title: '\[Summary / title goes here\]'
 
 **Investigation driver: Hector LeMans**
 
-**Investigation contributors:** Glottis, Olivia Ofrenda
+**Investigation contributors:**
 
-**Last Update:** 2020-04-22\
+**Last Update:** 2020-06-09\
 **Status: Reviewed\
 Start time: 2018-01-10 00:30\
 End time: 2018-01-10 08:50**
@@ -184,7 +184,7 @@ Severity Index / Severity / Priority matrix:
 
 Severity Index calculation:
 
--   Duration index: 0.1 x Duration (minutes) / TTS SLA (minutes)
+-   Duration index: 0.1 x Duration (minutes) / TTR SLA (minutes)
 
 -   Financial impact index:
 
